@@ -1,4 +1,5 @@
-import AppSidebar from "@/components/sidebar/SidebarComponent"
+// import { AppSidebar } from "@/components/sidebar/SidebarComponent"
+import {AppSidebar} from "@/components/sidebar/SidebarComponent"
 import { SidebarProvider, SidebarTrigger } from "@/components/ui/sidebar"
 // import { AppSidebar } from "@/components/sidebar"
 
