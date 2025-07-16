@@ -6,7 +6,7 @@ import { Calendar, Home, Inbox, Search, Settings } from "lucide-react"
 export const items = [
   {
     title: "Home",
-    url: "#",
+    url: "/",
     icon: Home,
   },
   {

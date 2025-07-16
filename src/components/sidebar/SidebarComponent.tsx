@@ -13,7 +13,7 @@ import { items } from "./menu"
 
 export function AppSidebar() {
   return (
-    <Sidebar>
+    <Sidebar className="pt-[100px]">
       <SidebarContent>
         <SidebarGroup>
           <SidebarGroupLabel>Application</SidebarGroupLabel>

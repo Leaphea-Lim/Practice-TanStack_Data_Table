@@ -1,4 +1,4 @@
-"use client";
+'use client';
 
 import { UserType } from "@/types/userType";
 import Link from "next/link";
